@@ -36,8 +36,12 @@ I am also a 12th grade high school student in South Korea. 📖
 ="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src
 ="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>  
 <img src
-="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><img src
+="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src
 ="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
+
+## My Stats ⭐️
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inqueue0979)](https://solved.ac/inqueue0979)
+
 
 <!--
 **inqueue0979/inqueue0979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
