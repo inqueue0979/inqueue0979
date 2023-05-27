@@ -38,10 +38,9 @@ I am also a 12th grade high school student in South Korea. 📖
 <img src
 ="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src
 ="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
+<br><br><br>
 
-## My Stats ⭐️
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inqueue0979)](https://solved.ac/inqueue0979)
-
+<p align=center><a target="_blank" href="https://solved.ac/profile/inqueue0979"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=inqueue0979"></a></p>
 
 <!--
 **inqueue0979/inqueue0979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
