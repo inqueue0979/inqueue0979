@@ -1,8 +1,9 @@
-![jwjbanner](https://user-images.githubusercontent.com/69336138/205815916-0ec2fc09-b577-45ab-8a78-64d9628648ab.png)
+<div align="center"><img src = "https://capsule-render.vercel.app/api?type=venom&text=jowonjae_&height=250&color=0:284f5d,100:80af82&fontColor=ffffff&section=header"/></div>
 
 ### Hi there! 👋
 I am a mobile app and web developer who studies various languages. 😀  
 I am also a 12th grade high school student in South Korea. 📖
+
 
 <a href="https://instagram.com/jowonjae_"/><img src="https://img.shields.io/badge/jowonjae-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/inqueue0979@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
