@@ -7,8 +7,10 @@ I am Wonjae Jo who loves <strong>making new things</strong> and <strong>solving 
 #### My Careers 🌟
 <strong>Kookmin University, Dept. of Computer Science</strong> (2023.03 ~ )<br>
 <strong>KOSS (Kookmin Univ. Open Source Software Society Club)</strong> (2023.03 ~ )<br>
-<strong>SK LOOKIE SolveIT Team 1 Developer (Handling disabilities issues)</strong> (2023.09 ~ )<br>
-<strong>Hult Prize Kookmin Univ. Campus General Director</strong> (2023.10 ~ )<br>
+<strong>SK LOOKIE SolveIT Team 척척 Developer (Handling disabilities issues)</strong> (2023.09 ~ 2024. 09)<br>
+<strong>Hult Prize Kookmin Univ. Campus General Director</strong> (2023.10 ~ 2024. 02)<br>
+<strong>KOSS (Kookmin Univ. Open Source Software Society Club), Head of Editorial Dept</strong> (2024.03 ~ )<br>
+<strong>SK LOOKIE SolveIT General Manager</strong> (2024. 09 ~ )<br>
 
 
 <a href="https://instagram.com/jowonjae_"/><img src="https://img.shields.io/badge/jowonjae__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
