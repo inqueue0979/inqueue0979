@@ -1,22 +1,30 @@
 <div align="center"><img src = "https://capsule-render.vercel.app/api?type=venom&text=jowonjae_🧑🏻‍💻&height=250&color=0:284f5d,100:80af82&fontColor=ffffff&section=header"/></div>
 
-### Hi there! 👋
-I am Wonjae Jo who loves <strong>making new things</strong> and <strong>solving various problems!</strong><br><br>
+## 안녕하세요! 👋
+소프트웨어로 세상을 널리 이롭게 만들고자 하는 <strong>개발자 조원재</strong>입니다. 😉<br><br><br><br>
 
 
-#### My Careers 🌟
-<strong>Kookmin University, Dept. of Computer Science</strong> (2023.03 ~ )<br>
-<strong>KOSS (Kookmin Univ. Open Source Software Society Club)</strong> (2023.03 ~ )<br>
-<strong>SK LOOKIE SolveIT Team 척척 Developer (Handling disabilities issues)</strong> (2023.09 ~ 2024. 09)<br>
-<strong>Hult Prize Kookmin Univ. Campus General Director</strong> (2023.10 ~ 2024. 02)<br>
-<strong>KOSS (Kookmin Univ. Open Source Software Society Club), Head of Editorial Dept</strong> (2024.03 ~ )<br>
-<strong>SK LOOKIE SolveIT General Manager</strong> (2024. 09 ~ )<br>
+## 커리어 🌟
+#### <strong>국민대학교 소프트웨어융합대학 소프트웨어학부</strong> (재학)<br>
+
+#### <strong>KOSS (국민대학교 오픈소스소프트웨어 학회)</strong><br>
+- <strong>2023 운영진 (편집부) </strong> (2023.08 ~ )<br>
+- <strong>2024 운영진 (편집부 부장) </strong> (2024.01 ~ )<br>
+
+#### <strong>SK LOOKIE 장애문제해결전문동아리 SolveIT</strong><br>
+- <strong>1기 "척척 팀" 개발자</strong> (경계선 지능 관련 솔루션, Full-Stack) (2023.08 ~ )<br>
+- <strong>2기 "척척 팀" 개발자</strong> (경계선 지능 관련 솔루션, Full-Stack) (2024.02 ~ )<br>
+- <strong>3기 "WayV 4.20 팀" 개발자</strong> ( 웹 접근성 관련 솔루션, Full-Stack) (2024.07 ~ )<br>
+- <strong>3기 운영진 (총무)</strong> (2024.07 ~ )<br>
+
+#### <strong>하나금융그룹 소셜벤처 유니버시티</strong><br>
+- <strong>척척 팀 "경계선 지능 아동 부모의 비대면 상담 솔루션"</strong> (2024.06 ~ 2024.07)<br>
 
 
 <a href="https://instagram.com/jowonjae_"/><img src="https://img.shields.io/badge/jowonjae__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:inqueue0979@gmail.com"/><img src="https://img.shields.io/badge/inqueue0979-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-## Skills 🔥
+## 직무 스킬 🔥
 #### Tools and Platforms 🔨
 <img src
 ="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src
