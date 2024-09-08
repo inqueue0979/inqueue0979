@@ -1,7 +1,7 @@
 <div align="center"><img src = "https://capsule-render.vercel.app/api?type=venom&text=jowonjae_🧑🏻‍💻&height=250&color=0:284f5d,100:80af82&fontColor=ffffff&section=header"/></div>
 
 ## 안녕하세요! 👋
-소프트웨어로 세상을 널리 이롭게 만들고자 하는 <strong>개발자 조원재</strong>입니다. 😉<br><br><br><br>
+소프트웨어로 세상을 널리 이롭게 만들고자 하는 <strong>개발자 조원재</strong>입니다. 😉<br><br>
 
 
 ## 커리어 🌟
