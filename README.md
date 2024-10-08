@@ -20,6 +20,10 @@
 #### <strong>하나금융그룹 소셜벤처 유니버시티</strong><br>
 - <strong>척척 팀 "경계선 지능 아동 부모의 비대면 상담 솔루션"</strong> (2024.06 ~ 2024.07)<br>
 
+#### <strong>연세대학교 워크스테이션</strong><br>
+- <strong>2024-1 척척 팀 "경계선 지능 아동 부모의 비대면 상담 솔루션"</strong> (2024.03 ~ 2024.06)<br>
+- <strong>2024-2 WayV 4.20 팀 "웹 접근성 향상을 위한 확장프로그램 / 웹 개발 도구 솔루션"</strong> (2024.09 ~ 2024.12)<br>
+
 
 <a href="https://instagram.com/jowonjae_"/><img src="https://img.shields.io/badge/jowonjae__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:inqueue0979@gmail.com"/><img src="https://img.shields.io/badge/inqueue0979-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
