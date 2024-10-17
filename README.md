@@ -9,6 +9,9 @@
 
 #### <strong>KOSS (국민대학교 오픈소스소프트웨어 학회)</strong><br>
 - <strong>2023 운영진 (편집부) </strong> (2023.08 ~ )<br>
+- <strong>2023 하계 용문고등학교 SW 봉사 </strong> (2023.08) <br>
+- <strong>2023 동계 용문고등학교 SW 봉사 </strong> (2023.12) <br>
+- <strong>2023 COKOTHON 2nd 운영진 (기획부) </strong> (2023.12) <br>
 - <strong>2024 운영진 (편집부 부장) </strong> (2024.01 ~ )<br>
 
 #### <strong>SK LOOKIE 장애문제해결전문동아리 SolveIT</strong><br>
