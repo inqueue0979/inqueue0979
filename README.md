@@ -13,7 +13,7 @@
 - <strong>2023 동계 용문고등학교 SW 봉사 </strong> (2023.12) <br>
 - <strong>2023 COKOTHON 2nd 운영진 (기획부) </strong> (2023.12) <br>
 - <strong>2024 운영진 (편집부 부장) </strong> (2024.01 ~ 2024.12)<br>
-- <strong>2024 운영진 (편집부) </strong> (2025.01 ~ )<br>
+- <strong>2025 운영진 (편집부) </strong> (2025.01 ~ )<br>
 
 #### <strong>SK LOOKIE 장애문제해결전문동아리 SolveIT</strong><br>
 - <strong>1기 "척척 팀" 개발자</strong> (경계선 지능 관련 솔루션, Full-Stack) (2023.08 ~ )<br>
